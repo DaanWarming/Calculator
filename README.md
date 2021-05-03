@@ -1,1 +1,1 @@
-this project is part of The odin project curriculum
+Show live demo here: https://daanwarming.github.io/Calculator/
